@@ -1,14 +1,10 @@
 ## Ripple Java Technical Challenge
 
-https://gist.github.com/sappenin/4e649235cc33f83c743801696a702ae3
-
-
 # Make a payment to partner
 /pay/{amount}
 
 # check your balance
 /balance
-
 
 # history payment - ledger
 /history
